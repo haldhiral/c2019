@@ -1413,7 +1413,7 @@ body{
 .counting-sec{
   padding: 40px 0;
   width: 100%;
-  background: linear-gradient(90deg,#FFFFFF,#FFFFFF);
+  background: linear-gradient(90deg,#FFF700,#FFF700);
 }
 .inner-width{
   max-width: 1200px;
