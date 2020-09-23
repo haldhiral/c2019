@@ -1405,7 +1405,6 @@ body{
   font-family: "montserrat",sans-serif;
 }
 .middle{
-  position: absolute;
   top: 50%;
   width: 100%;
   transform: translateY(-50%);
